@@ -1,0 +1,15 @@
+
+.logo{
+    width: 16rem;
+}
+nav a.nav-link{
+    font-weight: 500;
+    letter-spacing: .6rem;
+    cursor: pointer;
+}
+nav ul li{
+    text-transform: uppercase;
+}
+.nav-item .nav-link{
+    color: var(--primary-white) !important;
+}
